@@ -1,0 +1,85 @@
+[
+    {
+      "id": 1,
+      "name": "Vannevar Bush, D.Eng.",
+      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg",
+      "background": "a summary (4-5 sentences) of background info",
+      "contributions":"most relevant contributions"
+    },
+    {
+        "id": 2,
+        "name": "Doug Englebart, Ph.D.",
+        "imageUrl": "https://regmedia.co.uk/2013/07/03/douglas_engelbart.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 3,
+        "name": "Ted Nelson, Ph.D.",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ted_Nelson_cropped.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 4,
+        "name": "Steve Jobs",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 5,
+        "name": "Steve Wozniak",
+        "imageUrl": "https://cdn.britannica.com/83/200583-050-6DC32FAE/Steve-Wozniak-Apple-computer-founder-2014.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 6,
+        "name": "Tim Berners-Lee, KBE",
+        "imageUrl": "https://www.interactions.org/sites/default/files/styles/featured_image/public/9407011_31-min.JPG?itok=B5uRW5JR",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 7,
+        "name": "Marc Andreessen",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Marc_Andreessen-9.jpg/1200px-Marc_Andreessen-9.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 8,
+        "name": "Eric Bina",
+        "imageUrl": "https://www.computerhope.com/people/pictures/eric_bina.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 9,
+        "name": "Rob Hartill, Ph.D.",
+        "imageUrl": "https://www.windownews.co.uk/wp-content/uploads/2016/02/Rob-Hartill.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      }, {
+        "id": 10,
+        "name": "Lou Montulli",
+        "imageUrl": "https://cdn.peteradamsphoto.com/wp-content/uploads/2018/03/17225313/loumontulli27372.master.web_.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 11,
+        "name": "Vint Cerf",
+        "imageUrl": "https://council.science/wp-content/uploads/2020/02/V.-Cerf-Official-Photo-5-1_horizontal.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      },
+      {
+        "id": 12,
+        "name": "Bob Kahn",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kahn.jpg/440px-Bob_Kahn.jpg",
+        "background": "a summary (4-5 sentences) of background info",
+        "contributions":"most relevant contributions"
+      }
+  ]
