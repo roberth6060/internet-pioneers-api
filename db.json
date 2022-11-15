@@ -45,22 +45,24 @@
         "name": "Tim Berners-Lee, KBE",
         "imageUrl": "https://cdn.britannica.com/22/221822-050-3B0A657F/British-scientist-Tim-Berners-Lee.jpg",
         "background": "Tim Berners-Lee was born on June 8, 1955 in London, England. In 1989, he created the World Wide Web. He is a co-founder and CTO of the tech start-up Inrupt.com, which uses, promotes, and works to advance the open-source Solid platform. Solid challenges several presumptions about how the web must function in order to provide people ownership and agency over their data.",
-        "contributions":["Invented the World Wide Web (WWW)", "Designed the Apple II"],
+        "contributions":["Invented the World Wide Web (WWW)"],
         "source": "https://www.britannica.com/biography/Tim-Berners-Lee"
       },
       {
         "id": 7,
         "name": "Marc Andreessen",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Marc_Andreessen-9.jpg/1200px-Marc_Andreessen-9.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://www.forbes.com/profile/marc-andreessen/?sh=128c00257aad",
+        "background": "Marc Andreessen was born on July 9, 1971, in Cedar Falls, Iowa, United States. He is a software developer that credited notable technology such as Mosaic and Netscape. Both Mosaic and Netscape is credited with transforming the internet by changing the way information is exchange Additionally, Netscape was very beneficial to the internet as it allowed individuals and businesses to exchange information over the internet. Also, went on to run a successful venture capital firm based in Silicon Valley, whose successful bets include Instagram, Oculus VR, and GitHub. ",
+        "contributions":["Created Mosaic web browser", "Cofounded Netscape"],
+        "source": "https://www.forbes.com/profile/marc-andreessen/?sh=128c00257aad "
       },
       {
         "id": 8,
         "name": "Eric Bina",
-        "imageUrl": "https://www.computerhope.com/people/pictures/eric_bina.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://ws.engr.illinois.edu/sitemanager/viewphoto.aspx?id=13795&s=350",
+        "background": "Eric Bina was born on October 25, 1964, in Champaign, Illinois, United States. Along with Marc Andreessen, he is the co-founder of the web browser Mosaic and Netscape. Both Mosaic and Netscape are credited with transforming the internet by changing the way information is exchanged. In 1995, hard paid off as he was awarded the Association for Computing Machinery (ACM) software systems award for his contribution to the world wide web.",
+        "contributions":["Created Mosaic web browser", "Cofounded Netscape"],
+        "source": "https://grainger.illinois.edu/alumni/hall-of-fame/eric-bina"
       },
       {
         "id": 9,
