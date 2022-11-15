@@ -73,9 +73,10 @@
       }, {
         "id": 10,
         "name": "Lou Montulli",
-        "imageUrl": "https://cdn.peteradamsphoto.com/wp-content/uploads/2018/03/17225313/loumontulli27372.master.web_.jpg",
+        "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/2197adaf6a50dbf98de067f390ba63ca.jpg",
         "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "contributions":["Contributed to the development of Lynx", "Contributed to the development of Netscape", "Invented the digital cookie"],
+        "source": "https://qz.com/2000350/the-inventor-of-the-digital-cookie-has-some-regrets"
       },
       {
         "id": 11,
