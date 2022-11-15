@@ -51,10 +51,10 @@
       {
         "id": 7,
         "name": "Marc Andreessen",
-        "imageUrl": "https://www.forbes.com/profile/marc-andreessen/?sh=128c00257aad",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Marc_Andreessen-9.jpg/1200px-Marc_Andreessen-9.jpg",
         "background": "Marc Andreessen was born on July 9, 1971, in Cedar Falls, Iowa, United States. He is a software developer that credited notable technology such as Mosaic and Netscape. Both Mosaic and Netscape is credited with transforming the internet by changing the way information is exchange Additionally, Netscape was very beneficial to the internet as it allowed individuals and businesses to exchange information over the internet. Also, went on to run a successful venture capital firm based in Silicon Valley, whose successful bets include Instagram, Oculus VR, and GitHub. ",
         "contributions":["Created Mosaic web browser", "Cofounded Netscape"],
-        "source": "https://www.forbes.com/profile/marc-andreessen/?sh=128c00257aad "
+        "source": "https://en.wikipedia.org/wiki/Marc_Andreessen"
       },
       {
         "id": 8,
