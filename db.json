@@ -74,16 +74,17 @@
         "id": 10,
         "name": "Lou Montulli",
         "imageUrl": "https://i.kinja-img.com/gawker-media/image/upload/c_fit,f_auto,g_center,pg_1,q_60,w_1600/2197adaf6a50dbf98de067f390ba63ca.jpg",
-        "background": "a summary (4-5 sentences) of background info",
+        "background": "Lou Montulli was born in 1971 and attended the University of Kansas. At the age of 23-years-old while working at Netscape as an engineer he created cookies. The invention of cookie was created because there was an issue with memory in the web browser. Therefore, the cookie was made to cache data so that the current state is tracked and saved in local memory. His invention led to the modern creation of such a shopping cart, which tracks items added to the current even when the browser is page is refreshed.",
         "contributions":["Contributed to the development of Lynx", "Contributed to the development of Netscape", "Invented the digital cookie"],
         "source": "https://qz.com/2000350/the-inventor-of-the-digital-cookie-has-some-regrets"
       },
       {
         "id": 11,
         "name": "Vint Cerf",
-        "imageUrl": "https://council.science/wp-content/uploads/2020/02/V.-Cerf-Official-Photo-5-1_horizontal.jpg",
+        "imageUrl": "https://cdn.britannica.com/95/123895-050-4B37029E/Vinton-Gray-Cerf-2007.jpg?w=400&h=300&c=crop",
         "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "contributions":["Contributed to the development of Lynx", "Contributed to the development of Netscape", "Invented the digital cookie"],
+        "source": "https://www.britannica.com/biography/Vinton-Cerf"
       },
       {
         "id": 12,
