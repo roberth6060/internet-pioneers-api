@@ -3,44 +3,50 @@
     {
       "id": 1,
       "name": "Vannevar Bush, D.Eng.",
-      "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/ea/Vannevar_Bush_portrait.jpg",
-      "background": "a summary (4-5 sentences) of background info",
-      "contributions":"most relevant contributions"
+      "imageUrl": "https://history-computer.com/wp-content/uploads/2021/01/Bush.webp",
+      "background": "Vannevar Bush was born on March 11, 1890, in Everett, Massachusetts, United States. He is an American electrical engineer, science administrator, and inventor. During World War II he gained a notary for being the head of the Office of Scientific Research and Development that served a pivotal role in winning the war. After joining the MIT Electrical Engineering Department he went on to launch his own company, Raytheon, serve different companies, and invent different devices.",
+      "contributions":["Contribution to analog computers", "Founding of Raytheon", "Creation of the Memex device that helps with hypertext "],
+      "source": "https://history-computer.com/vannevar-bush-complete-biography/"
     },
     {
         "id": 2,
         "name": "Doug Englebart, Ph.D.",
-        "imageUrl": "https://regmedia.co.uk/2013/07/03/douglas_engelbart.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://bl-i.thgim.com/public/migration_catalog/article18030412.ece/alternates/FREE_480/Doug%20Engelbart.jpg",
+        "background": "Doug Englebart was born on January 30, 1925, in Portland, Oregon, United States. He studied electrical engineering at Oregon State University and even served in U.S. Navy as an electronics and radar technician overseas. Later on, in life, he worked as an engineer and investor and gain a notary for the creation of the mouse which become a staple in today’s society. Even though trackpads and touch screens are prevalent the mouse pad is more commonly used, showing the significance of Doug’s invention.  ",
+        "contributions": ["Invented the computer mouse", "Development of basic graphical user interface (GUI)", "Creation of groupware"],
+        "source": "https://www.thehindubusinessline.com/news/world/Computer-mouse-inventor-Douglas-Engelbart-passes-away/article20634221.ece"
       },
       {
         "id": 3,
         "name": "Ted Nelson, Ph.D.",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e5/Ted_Nelson_cropped.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://historyofinformation.com/images/Screen_Shot_2020-08-17_at_7.46.10_AM.png",
+        "background": "Ted Nelson was born on June, 17, 1937 in Chicago, Illinois, United States. He created the hypertext and hypermedia term to refer to features in computerized information system. He derived the link term to refer to logical connection relating to hyperlink. Also, books published by Ted Nelson from 1964 to 1980 Bush’s books were transposed by Ted Nelson that incorporated automated crossing-referencing into the computer context.",
+        "contributions":["Created the term hypertext", "Created the term hypermedia"],
+        "source": "https://www.historyofinformation.com/detail.php?id=830"
       },
       {
         "id": 4,
         "name": "Steve Jobs",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg/800px-Steve_Jobs_Headshot_2010-CROP_%28cropped_2%29.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://cdn.britannica.com/04/171104-050-AEFE3141/Steve-Jobs-iPhone-2010.jpg",
+        "background": "Steve Jobs was born on February 24, 1955 in San Francisco, California, United States. He is notable innovator of the personal computer era. Along with Steve Wozniak, Jobs co-founded Apple Inc. that was formed in 1976, and he later turned it into a telecommunications industry titan. He oversaw the introduction of ground-breaking products like the iPod and the iPhone, which are widely regarded as genius inventions. Due Steve Jobs leadership was able to establish themselves as prompt company worth over a billion dollar. ",
+        "contributions":["Credited with developing the Mac", "Credited with developing the iPhone", "Credited with developing the iPhone"],
+        "source": "https://www.britannica.com/biography/Steve-Jobs"
       },
       {
         "id": 5,
         "name": "Steve Wozniak",
         "imageUrl": "https://cdn.britannica.com/83/200583-050-6DC32FAE/Steve-Wozniak-Apple-computer-founder-2014.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "background": "Steve Wozniak was born on August 11, 1950 in San Jose, California, United States. He is electronics engineer and along with Steve Jobs founded Apple Computer. Also, credited with the invention of the personal computer, which is a computer that was designed to use by only one individual. The invention of the Apple I was revolutionary product that helped establish themselves as prominent company in the industry.",
+        "contributions":["Designed the Apple I", "Designed the Apple II"],
+        "source": "https://www.britannica.com/biography/Stephen-Gary-Wozniak"
       },
       {
         "id": 6,
         "name": "Tim Berners-Lee, KBE",
-        "imageUrl": "https://www.interactions.org/sites/default/files/styles/featured_image/public/9407011_31-min.JPG?itok=B5uRW5JR",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://cdn.britannica.com/22/221822-050-3B0A657F/British-scientist-Tim-Berners-Lee.jpg",
+        "background": "Tim Berners-Lee was born on June 8, 1955 in London, England. In 1989, he created the World Wide Web. He is a co-founder and CTO of the tech start-up Inrupt.com, which uses, promotes, and works to advance the open-source Solid platform. Solid challenges several presumptions about how the web must function in order to provide people ownership and agency over their data.",
+        "contributions":["Invented the World Wide Web (WWW)", "Designed the Apple II"],
+        "source": "https://www.britannica.com/biography/Tim-Berners-Lee"
       },
       {
         "id": 7,
