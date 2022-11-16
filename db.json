@@ -89,9 +89,11 @@
       {
         "id": 12,
         "name": "Bob Kahn",
-        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Bob_Kahn.jpg/440px-Bob_Kahn.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "imageUrl": "https://www.invent.org/sites/default/files/styles/inductee_detail_media/public/inductees/2022-06/Kahn_Robert%20E_Saved%20for%20web%20.jpg?h=f1a12738&itok=tZSsP3lD",
+        "background": "Robert E. Kahn was born on December 23, 1989, in Brooklyn New York, United States. The TCP/IP protocols were co-invented by Robert Kahn, who also developed DARPA's Internet program. He also designed ARPNET, which is the first communication network that allowed the sharing of data between different computers. The creation of both the ARPNET and TCP/IP made the internet possible and helped to revolutionize how data is transferred. For his contribution to the internet, he along with Vint Cerf is considered the “Father of the Internet.”",
+        "contributions":["Co-designer of the TCP/IP protocols", "Co-designer of the internet architecture"],
+        "source": "https://www.invent.org/inductees/robert-e-kahn"
+        
       }
   ]
 }
