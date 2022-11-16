@@ -68,8 +68,9 @@
         "id": 9,
         "name": "Rob Hartill, Ph.D.",
         "imageUrl": "https://www.computerhope.com/people/pictures/rob_hartill.jpg",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":"most relevant contributions"
+        "background": "Robert Hartill was born on January 30, 1969 in Pontypridd, United Kingdom. He helped create the Apache Software Foundation in 1994 and contributed a lot of improvements to the Apache HTTP (web) server. The Apache web server has served more websites than any other server since 1996, and for a significant portion of that time, it has served more websites than all other web servers put together. Rob was a frequent contributor to the rec.arts.movies database while he was a student at Cardiff. This newsgroup was monitored, and the maintainer gathered member reviews that were posted.",
+        "contributions":["Contributed to the Apache web server", "Contributed to Internet Movie Database (IMDb)"],
+        "source": "https://www.computerhope.com/people/rob_hartill.htm"
       }, {
         "id": 10,
         "name": "Lou Montulli",
