@@ -81,10 +81,10 @@
       {
         "id": 11,
         "name": "Vint Cerf",
-        "imageUrl": "https://cdn.britannica.com/95/123895-050-4B37029E/Vinton-Gray-Cerf-2007.jpg?w=400&h=300&c=crop",
-        "background": "a summary (4-5 sentences) of background info",
-        "contributions":["Contributed to the development of Lynx", "Contributed to the development of Netscape", "Invented the digital cookie"],
-        "source": "https://www.britannica.com/biography/Vinton-Cerf"
+        "imageUrl": "https://imageio.forbes.com/blogs-images/peterhigh/files/2018/03/vint_cerf_headshot-300x200.jpg?format=jpg&width=960",
+        "background": "Vinton Cerf was born on June 23, 1943, in New Haven, Connecticut, United States. He is widely regarded as the \"Father of the Internet,\" co-designed the TCP/IP protocols as well as the Internet's architecture. The ultimate goal of his invention was to make the internet safer, more secure, and more private. President Bill Clinton awarded the Internet's creators, Vint Cerf and Robert E. Kahn, the U.S. National Medal of Technology, in December 1997.",
+        "contributions":["Co-designer of the TCP/IP protocols", "Co-designer of the internet architecture", "Pioneered MCI Mail"],
+        "source": "https://www.forbes.com/sites/peterhigh/2018/03/26/the-father-of-the-internet-vint-cerf-continues-to-influence-its-growth/?sh=5ceee85949e5"
       },
       {
         "id": 12,
